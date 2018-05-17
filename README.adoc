@@ -1,3 +1,4 @@
 == AsciiDoc Samples
 
 A repository of AsciiDoc source files for testing AsciiDoc rendering on GitHub.
+More detail: http://asciidoctor.org/news/2014/02/04/github-asciidoctor-0.1.4-upgrade-5-things-to-know/#5-table-of-contents
